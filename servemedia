@@ -1,3 +1,0 @@
-#!/bin/sh
-export SERVEMEDIA_ROOT=/app
-exec /app/servemedia -config /app/config/default.yaml "$@"
